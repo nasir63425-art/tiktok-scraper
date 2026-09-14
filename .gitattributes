@@ -1,0 +1,14 @@
+go.sum linguist-generated
+* text=auto
+
+*.ico binary
+src/**/*.tsx linguist-detectable
+*.sh text eol=lf
+
+*.yaml linguist-detectable=false
+*.json linguist-detectable=false
+
+*.tsx linguist-detectable
+public/index.html linguist-vendored
+
+# eof a2857692
