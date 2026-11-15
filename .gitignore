@@ -1,0 +1,4 @@
+*.tgz
+*.log
+.cache/
+.env.local
